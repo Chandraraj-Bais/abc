@@ -564,7 +564,7 @@ body.menu-open {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  line-height: 1.2;
+  line-height: 5.2;
 }
 
 .left-logo-title {
@@ -1581,6 +1581,7 @@ input.error, select.error {
   }
 }
 */
+
 
 
 /* Animation Section ends ----------------------------------------------------------------------------------------------------------------------------- */
