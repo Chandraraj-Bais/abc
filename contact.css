@@ -891,7 +891,7 @@ body.menu-open {
 @media (max-width: 768px) 
 {
   .logo img {
-    height: 50px;
+    height: 48px;
   }
 
   .logo-text .evolution-word {
@@ -907,7 +907,7 @@ body.menu-open {
   }
 
   .mobile-nav {
-    padding-top: 28px;
+    padding-top: 30px;
   }
     
 }
@@ -932,7 +932,7 @@ body.menu-open {
   }
 
   .mobile-nav {
-    padding-top: 28px;
+    padding-top: 30px;
   }
   
 }
@@ -941,7 +941,7 @@ body.menu-open {
 @media (max-width: 480px) 
 {
   .logo img {
-    height: 50px;
+    height: 48px;
   }
 
   .logo-text .evolution-word {
@@ -957,7 +957,7 @@ body.menu-open {
   }
 
   .mobile-nav {
-    padding-top: 20px;
+    padding-top: 22px;
   }
 }
 
