@@ -62,7 +62,7 @@ body {
     #scrollToTopBtn {
         width: 40px;
         height: 40px;
-        font-size: 21px;
+        font-size: 22px;
         bottom: 15px;
         right: 15px;
 		border-radius:10px;
@@ -1588,6 +1588,7 @@ input.error, select.error {
 
 
 /* Animation Section ends ----------------------------------------------------------------------------------------------------------------------------- */
+
 
 
 
