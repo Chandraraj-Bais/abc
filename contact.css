@@ -81,7 +81,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 20px;
+  padding: 4px 20px;
   font-size: 15px;
   font-family: 'Segoe UI', sans-serif;
   flex-wrap: wrap;
@@ -215,7 +215,7 @@ body {
   .top-bar {
     flex-direction: column;
     align-items: center;
-    padding: 10px 10px;
+    padding: 8px 10px;
   }
 
   .top-left,
@@ -282,7 +282,7 @@ body {
 @media (max-width: 576px) {
   .top-bar {
     flex-direction: column;
-    padding: 9px 5px;
+    padding: 8px 5px;
   }
 
   .top-left {
@@ -301,7 +301,7 @@ body {
   .email-wrap {
     order: 2;
     justify-content: center;
-    font-size: 13.5px;
+    font-size: 13.8px;
   }
 
   .top-right,
@@ -314,7 +314,7 @@ body {
   }
   
   .icon {
-    font-size: 23px;
+    font-size: 24px;
   }
   
 }
@@ -328,7 +328,7 @@ body {
 /* ----- Header Container ----- */
 .header-container {
   background: white;
-  padding: 8px 20px;
+  padding: 10px 20px;
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -565,6 +565,7 @@ body.menu-open {
   flex-direction: column;
   justify-content: center;
   line-height: 1.2;
+  margin-top: 1px;
 }
 
 .left-logo-title {
@@ -895,11 +896,11 @@ body.menu-open {
   }
 
   .logo-text .evolution-word {
-    font-size: 2.rem;
+    font-size: 2.1rem;
   }
 
   .logo-text .career-word {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 
   .mobile-nav a {
@@ -924,7 +925,7 @@ body.menu-open {
   }
 
   .logo-text .career-word {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 
   .mobile-nav a {
@@ -941,23 +942,23 @@ body.menu-open {
 @media (max-width: 480px) 
 {
   .logo img {
-    height: 48px;
+    height: 49px;
   }
 
   .logo-text .evolution-word {
-    font-size: 1.8rem;
+    font-size: 2.0rem;
   }
 
   .logo-text .career-word {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 
   .mobile-nav a {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
   }
 
   .mobile-nav {
-    padding-top: 22px;
+    padding-top: 20px;
   }
 }
 
