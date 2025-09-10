@@ -556,15 +556,15 @@ body.menu-open {
 
 .logo img {
   height: 60px;
-  margin-right: 7px;
-  margin-left: 2px;
+  margin-right: 6px;
+  margin-left: 1px;
 }
 
 .logo-text {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  line-height: 5.2;
+  line-height: 1.2;
 }
 
 .left-logo-title {
@@ -1585,3 +1585,4 @@ input.error, select.error {
 
 
 /* Animation Section ends ----------------------------------------------------------------------------------------------------------------------------- */
+
