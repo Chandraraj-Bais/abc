@@ -501,11 +501,11 @@ body {
   display: none;
   background: none;
   border: none;
-  font-size: 2.003rem;
+  font-size: 2.03rem;
   color: #003c71;
   cursor: pointer;
   margin-right: 8px;
-  margin-top: 7px;
+  margin-top: 8.5px;
   
 }
 
@@ -1588,4 +1588,5 @@ input.error, select.error {
 
 
 /* Animation Section ends ----------------------------------------------------------------------------------------------------------------------------- */
+
 
